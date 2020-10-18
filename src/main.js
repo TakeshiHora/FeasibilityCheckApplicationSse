@@ -34,7 +34,7 @@ new Vue({
   }
 })
 */
-
+//Server Sent Egit vents handling.
 new Vue({
   el: '#app',
   data () {
